@@ -1,6 +1,6 @@
-# News Portal
+# Job Portal
 
-The News Portal is a full-stack web application designed to connect job seekers and recruiters. It provides a platform for students to search and apply for jobs, while recruiters can post job openings and manage applicants.
+The Job Portal is a full-stack web application designed to connect job seekers and recruiters. It provides a platform for students to search and apply for jobs, while recruiters can post job openings and manage applicants.
 
 ## Table of Contents
 
@@ -84,8 +84,8 @@ The News Portal is a full-stack web application designed to connect job seekers 
 
 ### Steps:
 ```bash
-git clone https://github.com/your-username/news-portal.git
-cd news-portal
+git clone https://github.com/your-username/job-portal.git
+cd job-portal
 
 # Backend
 cd backend
